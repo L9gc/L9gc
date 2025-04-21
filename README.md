@@ -1,7 +1,7 @@
 # Hi, The names Luyanda
 
 🔭 if you look at my profile you will notice i am bad at what i do (Joking)<br/>
-📺 Stuck in Tutorial Hell atm <br/>
+📺 Stuck in Tutorial Hell at the moment <br/>
 😊 I enjoying learning about new technologies <br/>
 🧠 I am and IT student who aspires to pursue CS at some point in my life<br/>
 
