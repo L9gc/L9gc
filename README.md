@@ -1,9 +1,9 @@
-# Hi, The names Luyanda
+-# Hi, My name is Luyanda
 
-🔭 if you look at my profile you will notice i am bad at what i do (Joking)<br/>
-📺 Stuck in Tutorial Hell at the moment <br/>
+🔭 The future looks bright <br/>
+📺 Stuck in Tutorial Hell but trying to make apps of my own<br/>
 😊 I enjoying learning about new technologies <br/>
-🧠 I am and IT student who aspires to pursue CS at some point in my life<br/>
+🧠 I am and IT student <br/>
 
 
 # 💻 Tech Stack:
