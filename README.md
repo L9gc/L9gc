@@ -1,4 +1,4 @@
--# Hi, My name is Luyanda
+# Hi, My name is Luyanda
 
 🔭 The future looks bright <br/>
 📺 Stuck in Tutorial Hell but trying to make apps of my own<br/>
