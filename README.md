@@ -4,6 +4,7 @@
 📺 Stuck in Tutorial Hell but trying to make apps of my own<br/>
 😊 I enjoying learning about new technologies <br/>
 🧠 I am and IT student <br/>
+👌 Im a Freelancer on fiverr @
 
 
 # 💻 Tech Stack:
